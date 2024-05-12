@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Check if Python is installed
+site.posts
+title: 2: Check if Python is installed
 ---
 
 In my Bash Script (Python), I want to check if the Python program already has a .venv (virtual environment) present. 
