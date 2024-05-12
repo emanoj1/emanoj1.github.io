@@ -9,7 +9,7 @@ name: Your Name
 description: Bootstrapped entrepreneur, indie-author and learning to code!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/37259245?s=400&u=a7856b22ca61a842dfb4eb911c1478600e28fd35&v=4
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: https://tally.so/r/w8qkjP
+  email: #
   facebook:
   flickr:
-  github: github.com/emanoj1
+  github: emanoj1
   instagram: emanoj_
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: emanoj_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/@checkoutaustralia
+  youtube: @checkoutaustralia
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
