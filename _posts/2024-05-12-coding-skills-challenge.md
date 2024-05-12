@@ -4,22 +4,22 @@ date: 2024-05-12 22:45:00 +1000
 title: 6. Coding Skills Challenge
 ---
 
-##CHALLENGE
-
 #### Write a program that allows a user to input their coding skills and then tells them:
 
 #### a) Their overall "coding skill score"
 #### b) Skills they may want to learn, and how much each one would improve their score
 #### c) Points per skill are as follows:
+<ul>
+ <li>Python (1)</li>
+ <li>Ruby (2)</li>
+ <li>Bash (4)</li>
+ <li>Git (8)</li>
+ <li>HTML (16)</li>
+ <li>TDD (32)</li>
+ <li>CSS (64)</li>
+ <li>JavaScript (128)</li>
+</ul>
 
- - Python (1)
- - Ruby (2)
- - Bash (4)
- - Git (8)
- - HTML (16)
- - TDD (32)
- - CSS (64)
- - JavaScript (128)
 
 ##### Answer 🙋‍♂️
 
