@@ -39,6 +39,7 @@ A web document begins with:
 <li>A Body element, represented as <body> and ending with </body>, sits outside the Head and Title elements, but within the main Root element (<html>), and all the design layout is specified here, which eventually will be seen by a user.</li>
 </ul>
 
+
 ```html
 <html>
     <head>
@@ -58,6 +59,7 @@ A web document begins with:
     </body>
 </html>
 ```
+
 
 In the above example, “p” refers to the beginning of a paragraph. The content that it contains, starts a new line.  
 
