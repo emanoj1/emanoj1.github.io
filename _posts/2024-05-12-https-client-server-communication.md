@@ -4,7 +4,7 @@ date: 2024-05-12 22:20:00 +1000
 title: 5. HTTP in Client-Server communication
 ---
 
-HTTP(Hypertext Transfer Protocol) and its secure version, HTTPS (Hypertext Transfer Protocol Secure), have significantly influenced client-server communication on the internet:
+HTTP (Hypertext Transfer Protocol) and its secure version, HTTPS (Hypertext Transfer Protocol Secure), have significantly influenced client-server communication on the internet:
 
 1. **Standardized Communication:** HTTP established a standardized way for web browsers and servers to communicate. 
 It allowed the retrieval of various resources like HTML pages, images, scripts, and more, forming the foundation for the World Wide Web.
