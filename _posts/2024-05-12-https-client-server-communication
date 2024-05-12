@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-05-12 21:35:00 +1000
-title: 5. HTTP and HTTPS in Client-Server communication
+date: 2024-05-12 22:20:00 +1000
+title: 5. HTTP in Client-Server communication
 ---
 
 HTTP(Hypertext Transfer Protocol) and its secure version, HTTPS (Hypertext Transfer Protocol Secure), have significantly influenced client-server communication on the internet:
