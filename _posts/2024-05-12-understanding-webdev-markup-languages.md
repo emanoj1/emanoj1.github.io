@@ -33,37 +33,12 @@ All markup languages have an opening tag (<) and a closing tag (> and />), withi
 
 A web document begins with:
 <ul>
-<li>A Root element, represented as <html> and ends with </html>. The complete structure of the webpage is contained within.</li>
-<li>A Head element, represented as <head> and ends with </head>. This is not seen by the user and contains information related to the web page in question, which are used by other web designers to understand what the page is about.</li>
+<li>A Root element, represented as <html> and ends with </html>. The complete structure of the webpage is contained here.</li>
+<li>A Head element, represented as <head> and ends with </head>. This is not seen by the user and contains information related to the web page in question, and helps others to understand what the page is about.</li>
 <li>A Title element, represented as <title> and ends with </title>, aims at giving a name to the page, which is seen by a user on the browser tab of their computer. It’s basically a label. </li>
 <li>A Body element, represented as <body> and ending with </body>, sits outside the Head and Title elements, but within the main Root element (<html>), and all the design layout is specified here, which eventually will be seen by a user.</li>
 </ul>
 
-
-```
-<html>
-    <head>
-        <title>
-            Demonstrating the structure of a web document
-        </title>
-    </head>
-
-    <body>
-        <p>
-            I am writing a small sentence here to show you how paragraph works!
-        </p>
-
-        <p>
-            If you want to check a website, check out <a href="https://emanoj1.github.io/"> Manoj's code blog! </a>
-        </p>
-    </body>
-</html>
-```
-
-
-In the above example, “p” refers to the beginning of a paragraph. The content that it contains, starts a new line.  
-
-The < a > is an Anchor element that lets you link an external website, and as seen above it’s nested inside another < p > tag.  
 
 The other common and important elements are: 
 
