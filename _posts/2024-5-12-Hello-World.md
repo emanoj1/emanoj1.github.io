@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2024-05-12 16:05:00 +1000
 title: 1. I am up and running a GitHub blog!
 ---
 
