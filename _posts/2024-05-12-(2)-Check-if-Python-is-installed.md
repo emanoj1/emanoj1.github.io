@@ -1,3 +1,8 @@
+---
+layout: post
+title: Check if Python is installed
+---
+
 In my Bash Script (Python), I want to check if the Python program already has a .venv (virtual environment) present. 
 If present, it returns a message, ".venv - virtual environment present". If not, it creates a new .venv file. 
 Below is the script that uses Python's venv module to create the virtual environment.
