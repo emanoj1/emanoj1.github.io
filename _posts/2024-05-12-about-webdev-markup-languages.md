@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2024-05-12 21:00:00 +1000
-title: 4. Understanding Web Development Markup Languages
+title: 4. About Web Development Markup Languages
 ---
 
-A Markup language is a method for defining the layout of information on a website or a digital document. Information refers to text and images, and layout refers to how this information are displayed to a user. 
+A Markup language is a method for defining the layout of content on a website or a digital document. Information refers to text and images, and layout refers to how this information are displayed to a user. 
 Often people think markup language is a programming language, but it’s not. A programming language executes a specific set of functions, whereas a markup language focuses on the formatting, structure and the look of a website.
 
 <ul>
