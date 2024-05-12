@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-05-12 21:00:00 +1000
-title: 4. Understanding Markup Languages
+title: 4. Understanding Web Development Markup Languages
 ---
 
 A Markup language is a method for defining the layout of information on a website or a digital document. Information refers to text and images, and layout refers to how this information are displayed to a user. 
@@ -64,6 +64,7 @@ In the above example, “p” refers to the beginning of a paragraph. The conten
 The < a > is an Anchor element that lets you link an external website, and as seen above it’s nested inside another < p > tag.  
 
 The other common and important elements are:
+
 <ul>
 <li>Headings (h1, h2, h3, h4, h5, h6)</li>
 <li>List (ordered and unordered, basically bullet or numbered points)</li>
@@ -72,10 +73,3 @@ The other common and important elements are:
 <li>The div (used as a generic container) for a specific section</li>
 <li>Footer (the bottom-most part of a webpage or an HTML doc)</li>
 </ul>  
-
-**Attributes** provide more information about elements. Here are some examples:  
-
-In the `<a>` anchor tag, the `href` attribute, specifies the weblink of a specific webpage.  
-
-In the `<img>` tag, the `src` attribute is used to highlight the exact path in the HTML directory where an image is saved, which is then called and displayed on a webpage:
-`<img src=”/image/logo/coder-academy-logo.png”>`  
