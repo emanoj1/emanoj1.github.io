@@ -32,4 +32,4 @@ In 2023, I began my journey to learn and practice coding: HTML/CSS, Python, Flas
 
 ### Contact me
 
-[Use this online contact form](https://tally.so/r/w8qkjP)) to reach out to me, or ping me on [Twitter/x](https://x.com/emanoj_) 
+[Use this online contact form](https://tally.so/r/w8qkjP) to reach out to me, or ping me on [Twitter/x](https://x.com/emanoj_) 
