@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: https://tally.so/r/w8qkjP
   facebook:
   flickr:
   github: github.com/emanoj1
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: emanoj_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # user/@checkoutaustralia
+  youtube: user/@checkoutaustralia
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
