@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2024-05-12 16:30:00 +1000
 title: 2. Check if Python is installed
 ---
 
