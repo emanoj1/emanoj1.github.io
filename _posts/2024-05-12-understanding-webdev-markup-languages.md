@@ -40,7 +40,7 @@ A web document begins with:
 </ul>
 
 
-```html
+```
 <html>
     <head>
         <title>
@@ -65,7 +65,7 @@ In the above example, “p” refers to the beginning of a paragraph. The conten
 
 The < a > is an Anchor element that lets you link an external website, and as seen above it’s nested inside another < p > tag.  
 
-The other common and important elements are:
+The other common and important elements are: 
 
 <ul>
 <li>Headings (h1, h2, h3, h4, h5, h6)</li>
