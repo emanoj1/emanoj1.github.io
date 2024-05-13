@@ -39,25 +39,28 @@ Let me explain a little bit more on some of the terms used above:
 
 1. **Class:**
    - In object-oriented programming (OOP), a class is a blueprint for creating objects. It defines a set of attributes and behaviors that objects created from the class will have.
-   - In the given code, `Flask` is a class from the Flask module. It serves as a blueprint for creating Flask web applications. By creating an instance of this class, you can use its methods and properties to configure and run a web application.
+   - In the given code, `Flask` is a class from the Flask module. It serves as a blueprint for creating Flask web applications. By creating an instance of this class, you can use its methods and properties to configure and run a web application. 
 
 2. **Instance:**
    - An instance is a specific occurrence of an object created from a class. It is a concrete realization of the attributes and behaviors defined by the class.
-   - In the code, `app` is an instance of the `Flask` class. By creating an instance of the `Flask` class, you can customize and run your specific web application.
+   - In the code, `app` is an instance of the `Flask` class. By creating an instance of the `Flask` class, you can customize and run your specific web application. 
 
 3. **Current Module:**
    - In Python, the term "module" refers to a file containing Python code. The `__name__` variable is a special variable in Python that represents the name of the current module.
-   - In the given code, `__name__` is used as an argument when creating the `Flask` instance (`app`). It helps Flask determine the root path for the application.
+   - In the given code, `__name__` is used as an argument when creating the `Flask` instance (`app`). It helps Flask determine the root path for the application. 
 
 4. **Root Path of the Application:**
    - The root path of a web application is the starting point for URL routing. It is the base URL that, when accessed, triggers the associated route or view.
-   - In the code, `app = Flask(__name__)` sets up the Flask application, and the `__name__` argument helps Flask determine the root path for the application.
+   - In the code, `app = Flask(__name__)` sets up the Flask application, and the `__name__` argument helps Flask determine the root path for the application. 
 
 5. **Root URL:**
    - The root URL is the base URL of a website or web application. In the context of a Flask application, it often corresponds to the forward slash ("/").
-   - In the code, `@app.route("/")` is a route decorator that associates the `hello_world` function with the root URL ("/"). When a user accesses the root URL, the associated function (`hello_world`) is called to handle the request.
+   - In the code, `@app.route("/")` is a route decorator that associates the `hello_world` function with the root URL ("/"). When a user accesses the root URL, the associated function (`hello_world`) is called to handle the request. 
 
-These terms are fundamental concepts in programming and web development, and understanding them is crucial when working with frameworks like Flask.
+These terms are fundamental concepts in programming and web development, and understanding them is crucial when working with frameworks like Flask. 
 
 ---
-If you are interested in studying Flask, I highly recommend this book: <h3> The Flask Mega-Tutorial </h3> by Miguel Grinberg, [available on Amazon](https://amzn.to/3WyUd8D)!
+If you are interested in studying Flask, I highly recommend this book: 
+### The Flask Mega-Tutorial
+by Miguel Grinberg
+[Available on Amazon](https://amzn.to/3WyUd8D)!
