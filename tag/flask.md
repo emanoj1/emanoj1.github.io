@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Tag: Flask"
-tag: Flask
+tag: flask
 ---
