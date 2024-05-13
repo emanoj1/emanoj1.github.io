@@ -4,9 +4,6 @@ date: 2024-05-13 19:00:00 +1000
 title: 7. Deciphering a simple Flask application
 tag: Flask
 ---
-
-** What is Flask? **
-
 Flask is a web framework that allows web developers to build lightweight web applications quickly and easily with Flask Libraries. You can read more about it from these 2 weblinks:
   - [Flask Tutorial on Geeks for Geeks](https://www.geeksforgeeks.org/flask-tutorial/)
   - [Official Flask website](https://flask.palletsprojects.com/en/3.0.x/)
