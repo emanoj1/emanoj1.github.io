@@ -2,7 +2,7 @@
 layout: post
 date: 2024-05-13 19:25:00 +1000
 title: 8. Install requirements.txt in a Flask module
-tag: Flask
+tag: flask
 ---
 
 To install the dependencies listed in a `requirements.txt` file for a Flask project, you can use the `pip` tool, which is the package installer for Python. Follow these steps:
