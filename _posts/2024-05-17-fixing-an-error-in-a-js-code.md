@@ -50,7 +50,7 @@ johnDoe.greet()
 
 When I checked again on localhost, I was happy to see an output but there was an issue!  
 
-![Localhost screenshot]()
+![Localhost screenshot](/images/name-localhost-issue.png)
 
 The name "Joe Doe" wasn't appearing!  
 
@@ -70,7 +70,7 @@ johnDoe.greet();
 
 And that produced the below result:  
 
-![Localhost screenshot]()  
+![Localhost screenshot](/images/correct-display-name.png)  
 
 Success!
 
