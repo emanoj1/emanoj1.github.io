@@ -2,7 +2,7 @@
 layout: post
 date: 2024-05-17 15:45:00 +1000
 title: 12. Fixing an error in a JavaScript code
-tag: javascript, challenges
+tags: javascript, challenges
 ---
 What is wrong with my below javascript code?
 
