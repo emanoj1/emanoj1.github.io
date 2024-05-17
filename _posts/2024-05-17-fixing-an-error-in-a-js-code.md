@@ -56,23 +56,26 @@ The name "Joe Doe" wasn't appearing!
 
 After a little more troubleshooting, I discovered I had the curved braces (parentheses) in the wrong place! The code should be as follows:  
 
-
+```javascript
 var johnDoe = {
     firstName: "John",
     lastName: "Doe",
 
     greet: function() {
-        alert("My name is " + this.firstName + " " + this.lastName);
+        alert("My name is " +
+        this.firstName + " " +
+        this.lastName);
     }
 };
 
 johnDoe.greet();
+```  
 
 And that produced the below result:  
 
 ![Localhost screenshot](/images/correct-display-name.png)  
 
-Success!
+### Success!
 
 As my tutor says, "Having syntax problems isn't a problem, it's going to happen throughout your career - 
 the important thing is that you know how to fix those once you realise where the problem is 😉"
