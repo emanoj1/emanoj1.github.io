@@ -37,17 +37,7 @@ If the function body contains more than a single expression, you use curly brace
    ```javascript
    let add = (a, b) => a + b;
    console.log(add(2, 3)); // Output: 5
-   ```
-
-FYI - to understand the above better, this is how it would look traditionally (if we didn't use an arrow):
-
-```javascript
-let add = function(a, b) {
-  return a + b;
-};
-
-console.log(add(2, 3)); // Output: 5
-```   
+   ```  
 
 3. **No Parameters**:
    ```javascript
@@ -63,6 +53,17 @@ console.log(add(2, 3)); // Output: 5
    };
    console.log(sumAndDouble(2, 3)); // Output: 10
    ```
+
+
+FYI - to understand the above better, this is how example 2 would look traditionally (if we didn't use an arrow):
+
+```javascript
+let add = function(a, b) {
+  return a + b;
+};
+
+console.log(add(2, 3)); // Output: 5
+``` 
 
 ### Differences from Traditional Functions
 
