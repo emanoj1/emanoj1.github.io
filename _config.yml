@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: emanoj_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: #
+  youtube: # @checkoutaustralia
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: G-VY4P3PMCNP
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
