@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Hey there :wave: I’m Manoj Kumar, currently based in Sydney, Australia. Nice to meet you!
+👋
+Hey there! I’m Manoj Kumar, currently based in Sydney, Australia. Nice to meet you!
 
 ### Coder
 
